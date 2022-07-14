@@ -1,0 +1,4 @@
+class Kishor
+{
+sop("hiii");
+}
